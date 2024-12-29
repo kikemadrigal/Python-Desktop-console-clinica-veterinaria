@@ -1,0 +1,12 @@
+**/__pycache__
+
+**/.pytest_cache
+
+Clinica-vet-v1-MVP/veterinario-Avanza-Plus.db
+
+Clinica-vet-v2-mini-SOLID/veterinario-Avanza-Plus.db
+
+Clinica-vet-v3-SOLID/veterinario-Avanza-Plus.db
+Clinica-vet-v3-SOLID/src/veterinario-Avanza-Plus.db
+
+Clinica-vet-v3-SOLID/.venv/

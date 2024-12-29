@@ -1,0 +1,114 @@
+Id,IdPropietario,Nombre,Tipo,Raza,Fecha nacimiento,Peso,Color,Notas
+None,1,Coco,Gato,Persa,01-10-2020,3.5,Gris,Mascota 1
+None,3,Pipo,Conejo,Salvaje,01-01-2022,1.2,Verd,Mascota 2
+None,4,Hugo,Perro,Pastor,31-07-2019,13.5,Azul,Mascota 3
+None,4,Pluto,Perro,Pastor,25-01-2021,10.7,Rosa,Mascota 4
+None,4,Robin,Gato,siamés,26-03-2023,4.8,Negro,Mascota 5
+None,6,Simba,Perro,Chihuahua,10-05-2023,10.0,Marrón claro,Mascota 6
+None,2,Nemo,Gato,angora,01-01-2020,2.7,Blanco,Mascota 7
+None,5,Bobi,Perro,Terrier,01-01-2020,15.5,Manchas negras,Mascota 8
+None,5,Dartacan,Perro,Terrier,01-01-2020,4.5,Manchas blancas,Mascota 9
+None,4,Leo,Perro,Terrier,01-01-2020,4.0,Gris claro,Mascota 10
+None,1,Piolin,Pájaro,Canario,01-01-2020,0.5,Amarillo,Mascota 11
+None,3,Sansón,Perro,Labrador,01-01-2020,0.5,Blanco con machas marrones,Mascota 12
+None,3,Cani,Gato,Persa,01-01-2020,0.5,Negro claro,Mascota 13
+None,8,Brian,Perro,Labrador,29-05-2024,5.9,Amarillo,Mascota 14
+None,2,Joseph,Gato,Persa,01-09-2015,7.3,Negro,Mascota 15
+None,6,Theresa,Perro,Chihuahua,18-06-2016,9.7,Amarillo,Mascota 16
+None,1,David,Perro,Chihuahua,20-08-2022,19.6,Manchas blancas,Mascota 17
+None,10,Rebecca,Conejo,Mini Lop,10-12-2014,13.5,Blanco,Mascota 18
+None,1,Derrick,Gato,Persa,06-05-2016,17.0,Negro,Mascota 19
+None,2,Joseph,Perro,Labrador,17-01-2019,18.3,Azul,Mascota 20
+None,3,Sonya,Gato,Siamés,30-12-2023,13.9,Manchas blancas,Mascota 21
+None,9,Michael,Perro,Bulldog,18-08-2015,16.9,Manchas negras,Mascota 22
+None,5,Taylor,Conejo,Salvaje,27-10-2017,1.1,Manchas negras,Mascota 23
+None,1,Robert,Conejo,Salvaje,08-12-2016,3.3,Manchas blancas,Mascota 24
+None,2,Courtney,Gato,Angora,15-01-2020,2.1,Marrón claro,Mascota 25
+None,2,Angela,Conejo,Salvaje,19-05-2018,8.5,Negro,Mascota 26
+None,10,Catherine,Pájaro,Canario,20-11-2024,1.2,Marrón claro,Mascota 27
+None,4,William,Perro,Pastor,26-06-2024,5.4,Gris,Mascota 28
+None,3,Meghan,Conejo,Salvaje,15-01-2017,6.1,Rosa,Mascota 29
+None,4,Riley,Perro,Labrador,26-11-2015,7.0,Blanco,Mascota 30
+None,8,Frank,Gato,Bengala,15-07-2024,14.7,Amarillo,Mascota 31
+None,3,Marie,Pájaro,Periquito,22-03-2015,8.7,Marrón claro,Mascota 32
+None,5,Dean,Perro,Terrier,24-01-2020,2.3,Rosa,Mascota 33
+None,1,Reginald,Perro,Pastor,10-11-2023,2.9,Azul,Mascota 34
+None,5,Julia,Perro,Pastor,28-05-2015,18.7,Verde,Mascota 35
+None,8,Rebecca,Perro,Chihuahua,08-12-2021,18.7,Gris,Mascota 36
+None,9,Melissa,Perro,Pastor,01-07-2024,3.1,Rosa,Mascota 37
+None,8,Theresa,Pájaro,Canario,05-10-2016,12.0,Negro,Mascota 38
+None,7,Michele,Perro,Terrier,04-11-2016,7.2,Negro,Mascota 39
+None,5,Jerry,Pájaro,Cacatúa,29-06-2023,13.4,Gris,Mascota 40
+None,1,Barry,Gato,Persa,05-06-2020,2.6,Rosa,Mascota 41
+None,3,David,Gato,Bengala,06-06-2017,19.8,Gris,Mascota 42
+None,5,Amy,Gato,Siamés,09-01-2015,0.6,Blanco,Mascota 43
+None,4,James,Perro,Labrador,17-02-2019,5.9,Marrón claro,Mascota 44
+None,4,Carol,Conejo,Salvaje,17-10-2024,10.9,Amarillo,Mascota 45
+None,5,Denise,Conejo,Cabeza de León,06-09-2020,13.2,Verde,Mascota 46
+None,10,James,Conejo,Cabeza de León,13-10-2024,4.4,Azul,Mascota 47
+None,9,Richard,Perro,Labrador,15-09-2023,17.3,Marrón claro,Mascota 48
+None,10,Lisa,Perro,Pastor,05-05-2020,18.9,Marrón claro,Mascota 49
+None,10,Bobby,Conejo,Mini Lop,19-04-2017,4.7,Marrón claro,Mascota 50
+None,1,Daniel,Conejo,Mini Lop,29-03-2021,4.5,Gris,Mascota 51
+None,9,Matthew,Gato,Persa,16-11-2023,19.0,Rosa,Mascota 52
+None,4,Ryan,Conejo,Salvaje,21-04-2022,4.6,Manchas blancas,Mascota 53
+None,9,Wendy,Perro,Bulldog,29-01-2017,14.3,Blanco,Mascota 54
+None,2,Timothy,Gato,Angora,09-12-2022,16.0,Rosa,Mascota 55
+None,7,Kelly,Gato,Siamés,21-11-2016,8.2,Verde,Mascota 56
+None,7,Mark,Pájaro,Periquito,14-07-2016,1.9,Amarillo,Mascota 57
+None,10,Tamara,Pájaro,Cacatúa,17-06-2023,3.2,Verde,Mascota 58
+None,5,Steven,Pájaro,Canario,06-06-2016,19.2,Manchas blancas,Mascota 59
+None,2,Brenda,Gato,Persa,24-10-2024,17.5,Manchas negras,Mascota 60
+None,10,Susan,Pájaro,Cacatúa,16-04-2024,7.8,Amarillo,Mascota 61
+None,9,Amanda,Perro,Pastor,01-05-2023,5.4,Amarillo,Mascota 62
+None,2,Eric,Conejo,Cabeza de León,18-06-2023,1.7,Manchas blancas,Mascota 63
+None,9,Brittney,Gato,Angora,29-06-2020,2.2,Manchas blancas,Mascota 64
+None,3,Jose,Gato,Persa,29-03-2016,5.5,Marrón claro,Mascota 65
+None,6,Tiffany,Gato,Persa,13-02-2024,16.2,Amarillo,Mascota 66
+None,9,Deborah,Pájaro,Periquito,08-01-2018,5.5,Manchas negras,Mascota 67
+None,7,Christopher,Pájaro,Periquito,09-10-2018,15.1,Manchas negras,Mascota 68
+None,5,Shannon,Perro,Terrier,16-10-2018,10.9,Negro,Mascota 69
+None,7,James,Perro,Terrier,09-01-2019,10.8,Amarillo,Mascota 70
+None,5,Alexis,Pájaro,Periquito,30-01-2024,15.6,Manchas blancas,Mascota 71
+None,1,Cindy,Pájaro,Periquito,02-01-2018,7.2,Gris,Mascota 72
+None,5,Jeremy,Gato,Siamés,18-05-2018,0.9,Blanco,Mascota 73
+None,10,Amy,Gato,Siamés,23-11-2023,1.2,Amarillo,Mascota 74
+None,9,Christopher,Pájaro,Periquito,06-02-2021,13.4,Verde,Mascota 75
+None,6,Kevin,Gato,Persa,19-07-2020,5.3,Marrón claro,Mascota 76
+None,4,Mario,Gato,Siamés,06-07-2015,14.5,Amarillo,Mascota 77
+None,8,Linda,Conejo,Mini Lop,13-10-2017,13.5,Gris,Mascota 78
+None,2,Howard,Perro,Labrador,17-01-2018,15.2,Rosa,Mascota 79
+None,6,Crystal,Gato,Bengala,06-06-2019,6.8,Amarillo,Mascota 80
+None,1,Susan,Conejo,Salvaje,13-06-2019,5.9,Manchas blancas,Mascota 81
+None,2,Eric,Conejo,Cabeza de León,10-10-2024,4.3,Rosa,Mascota 82
+None,6,David,Gato,Persa,03-07-2018,14.6,Verde,Mascota 83
+None,5,Gina,Pájaro,Periquito,20-12-2018,1.8,Azul,Mascota 84
+None,6,Reginald,Pájaro,Canario,15-08-2024,17.6,Gris,Mascota 85
+None,3,Jessica,Pájaro,Periquito,25-07-2024,16.0,Manchas negras,Mascota 86
+None,2,Christopher,Perro,Chihuahua,12-02-2021,1.5,Manchas negras,Mascota 87
+None,9,Sydney,Conejo,Cabeza de León,08-03-2020,15.9,Manchas negras,Mascota 88
+None,4,Marcus,Pájaro,Periquito,13-06-2024,1.0,Blanco,Mascota 89
+None,1,Alan,Gato,Persa,12-01-2020,14.8,Verde,Mascota 90
+None,8,Jill,Pájaro,Canario,27-05-2020,7.0,Amarillo,Mascota 91
+None,10,Brian,Gato,Bengala,17-11-2024,17.9,Gris,Mascota 92
+None,4,William,Gato,Bengala,28-09-2016,9.0,Amarillo,Mascota 93
+None,2,Deborah,Pájaro,Periquito,29-09-2019,16.1,Azul,Mascota 94
+None,10,Melody,Gato,Siamés,26-01-2024,7.5,Azul,Mascota 95
+None,3,Denise,Gato,Bengala,06-11-2022,8.5,Verde,Mascota 96
+None,6,Caleb,Conejo,Mini Lop,29-07-2017,3.7,Amarillo,Mascota 97
+None,7,Karen,Pájaro,Canario,29-10-2020,7.6,Gris,Mascota 98
+None,1,Trevor,Perro,Labrador,12-04-2024,1.7,Amarillo,Mascota 99
+None,6,Emma,Gato,Persa,25-05-2024,12.6,Azul,Mascota 100
+None,9,Carly,Gato,Angora,01-02-2023,11.7,Manchas negras,Mascota 101
+None,3,Tracey,Conejo,Mini Lop,08-04-2021,14.9,Manchas blancas,Mascota 102
+None,8,Patrick,Pájaro,Cacatúa,24-06-2015,8.6,Manchas blancas,Mascota 103
+None,1,Ruben,Perro,Chihuahua,26-06-2017,6.8,Verde,Mascota 104
+None,1,Kevin,Gato,Angora,27-10-2016,17.3,Verde,Mascota 105
+None,4,Denise,Perro,Bulldog,01-12-2016,11.5,Manchas blancas,Mascota 106
+None,5,Alyssa,Gato,Angora,25-07-2016,16.9,Gris,Mascota 107
+None,5,Christopher,Pájaro,Canario,10-10-2022,15.2,Negro,Mascota 108
+None,2,Bill,Gato,Angora,08-04-2018,7.5,Azul,Mascota 109
+None,2,Samantha,Pájaro,Cacatúa,20-10-2016,8.8,Negro,Mascota 110
+None,6,Savannah,Conejo,Mini Lop,11-04-2017,15.6,Gris,Mascota 111
+None,8,Michelle,Gato,Persa,27-02-2019,3.6,Manchas blancas,Mascota 112
+None,2,Julia,Perro,Chihuahua,23-11-2024,13.5,Amarillo,Mascota 113
